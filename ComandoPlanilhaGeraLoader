@@ -1,0 +1,1 @@
+=" "&G11&" POSITION("&L11&":"&M11&")"&SE(H11=9;" ""TO_NUMBER(:"&G11&",'"&REPT("9";I11+J11)&"')/1"&REPT("0";J11)&""",";SE(ESQUERDA(G11;3)="DT_";"DATE ""DD.MM.YYYY"" ""NVL(:"&G11&", SYSDATE)"",";" ""NVL(:"&G11&", '"&REPT(" ";I11)&"')"","))
